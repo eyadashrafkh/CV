@@ -1,0 +1,25 @@
+body {
+    background-color: antiquewhite;
+}
+
+hr {
+    border-style:none;
+    border-top-style: dotted;
+    border-width: 10px;
+    border-color: darkgray;
+    width: 30%;
+}
+
+img {
+    height: 200px;
+    width: 200px;
+}
+
+h1{
+    color: indianred;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h3{
+    color: indianred;
+}
